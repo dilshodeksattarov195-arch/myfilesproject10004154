@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerretch",
+        "uuid": 36596740,
+        "checksum": "g07n6s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
